@@ -1,0 +1,8 @@
+name: tlefitting
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - orekit
+  - jupyter
+  - numpy
